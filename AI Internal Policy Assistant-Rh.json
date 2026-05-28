@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T22:47:50.816Z",
+  "updatedAt": "2026-05-28T18:05:54.248Z",
   "createdAt": "2026-05-21T17:17:04.143Z",
   "id": "4SXZvLOGnMnpWg05",
   "name": "AI Internal Policy Assistant-Rh",
@@ -210,7 +210,7 @@
         },
         "text": "={{ $('AI Agent').item.json.output }}",
         "otherOptions": {
-          "includeLinkToWorkflow": false
+          "includeLinkToWorkflow": true
         }
       },
       "type": "n8n-nodes-base.slack",
@@ -517,7 +517,7 @@
     "templateCredsSetupCompleted": true
   },
   "pinData": {},
-  "versionId": "85e0d613-c889-438a-845d-b67fb96576da",
+  "versionId": "83cef233-a9c7-4c6a-a005-da7cff15cd02",
   "activeVersionId": null,
   "triggerCount": 2,
   "shared": [
